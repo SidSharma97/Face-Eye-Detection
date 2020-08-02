@@ -1,0 +1,3 @@
+# Face-Eye-Detection
+Welcome All 
+I have created a bsic code to detect Eye and Face using Haar-Cascades
